@@ -1,0 +1,11 @@
+@utility btn-glass-border {
+    @apply w-max pb-1 font-bold h-max border-2 pt-2 px-2 text-wrap text-sm hover:cursor-pointer shadow-gray-800 shadow-md active:cursor-default text-white bg-black/20 rounded-xl border-white capitalize
+}
+
+@utility btn-color {
+    @apply w-max pb-1 font-bold h-max text-black/70 bg-white pt-2 px-2 text-sm hover:cursor-pointer active:cursor-default rounded-xl capitalize
+}
+
+@utility btn-unClick {
+    @apply hover:cursor-default decoration-2 border-white/40 text-white/40 decoration-red-500/60 line-through
+}

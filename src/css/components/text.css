@@ -1,0 +1,7 @@
+/* @utility text-description{} */
+@utility text-title{
+    @apply uppercase font-extrabold pl-2 mask-b-from-blue-500
+}
+@utility text-massage{
+    @apply font-light text-gray-300 pl-2 mask-b-from-blue-500
+}

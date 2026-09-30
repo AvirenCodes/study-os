@@ -1,0 +1,12 @@
+@utility text-input-glass {
+    @apply from-black/70 font-extralight via-70% via-white/10 to-black bg-black/60 outline-2 bg-linear-to-br border-white/50 p-1 rounded-sm text-white/70 focus:bg-white/20 focus:outline-2 outline-black/40
+}
+
+@utility text-input-left {
+    @apply text-left pl-2
+}
+
+@utility text-input-right {
+    @apply text-right pr-2
+    
+}
