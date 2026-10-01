@@ -3,3 +3,8 @@
 @import "./css/components/box.css";
 @import "./css/components/text-input.css";
 @import "./css/components/text.css";
+@import "./css/components/card.css";
+@import "./css//global/global.css";
+@import "./css/features/sidebar.css";
+@import "./css/features/dashboard/dashboard.css";
+@import './css/animations/animation.css'
